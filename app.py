@@ -9,7 +9,7 @@ import pickle
 # ============================================================
 
 st.set_page_config(
-    page_title="A Supervised Machine Learning Approach for Predicting and Estimating Smartphone Prices Using Regression Models",
+    page_title="Data-Driven Smartphone Price Prediction from Device Specifications Using Machine Learning",
     page_icon="📱",
     layout="wide"
 )
@@ -55,7 +55,7 @@ except Exception as e:
 # HEADER
 # ============================================================
 
-st.title("A Supervised Machine Learning Approach for Predicting and Estimating Smartphone Prices Using Regression Models.")
+st.title("Data-Driven Smartphone Price Prediction from Device Specifications Using Machine Learning")
 st.write(
     "Enter the smartphone specifications below to estimate its price."
 )
