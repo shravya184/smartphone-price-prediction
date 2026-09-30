@@ -9,7 +9,7 @@ import pickle
 # ============================================================
 
 st.set_page_config(
-    page_title="Smartphone Price Predictor",
+    page_title="A Supervised Machine Learning Approach for Smartphone Price Prediction Using Regression Models",
     page_icon="📱",
     layout="wide"
 )
