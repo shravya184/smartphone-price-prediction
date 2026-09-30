@@ -1,5 +1,4 @@
-# 📱 A Supervised Machine Learning Approach for Predicting and Estimating Smartphone Prices Using Multiple Regression Models
-
+# Data-Driven Smartphone Prediction from Device Specifications Using Machine Learning
 A complete end-to-end machine learning project that predicts smartphone prices based on technical specifications such as RAM, processor, camera, battery, display and connectivity features. Seven regression models were built, tuned and compared. The best model — **Gradient Boosting Regressor** — was deployed as an interactive web application using Streamlit.
 
 ---
